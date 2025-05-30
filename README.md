@@ -74,7 +74,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📬 Contact
 
-Rishi Kora – [rishi.kora@example.com](mailto:rishi.kora@example.com)
+Rishi Kora – [korarishi@gmail.com](mailto:rishi.kora@example.com)
 Project Link: [https://github.com/Rishi-Kora/scrape-website-using-gradio](https://github.com/Rishi-Kora/scrape-website-using-gradio)
 
 
